@@ -6,5 +6,5 @@
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/your-name/sheep-grazing/output/sheep-dark.svg" />
   <img alt="A sheep grazing my contribution graph"
-       src="https://raw.githubusercontent.com/your-name/sheep-grazing/output/sheep.svg" />
+       src="https://raw.githubusercontent.com/alejofraga/sheep-grazing/output/sheep.svg" />
 </picture>
